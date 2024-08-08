@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"load","l":"Dashboard"},{"p":"views","l":"lending"},{"p":"load","l":"Load"},{"p":"load","l":"Loading"},{"p":"load","l":"logAdmin"},{"p":"load","l":"login"},{"p":"load","l":"logUsua"},{"p":"load","l":"main"},{"p":"views","l":"Principal"},{"p":"views","l":"Returns"}];updateSearchResults();
