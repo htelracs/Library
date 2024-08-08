@@ -6,7 +6,7 @@ package UserInterface.GUI.load;
 
 /**
  *
- * @author Suco
+ * @author Grupo 4
  */
 public class Loading extends javax.swing.JFrame {
     public Loading() {

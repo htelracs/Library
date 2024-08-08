@@ -5,7 +5,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Suco
+ * @author Grupo 4
  */
 public class Load {
     public static void main(String[] args) {

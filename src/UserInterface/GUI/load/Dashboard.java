@@ -28,7 +28,7 @@ import UserInterface.GUI.views.lending;
 
 /**
  *
- * @author Suco
+ * @author Grupo 4
  */
 public class Dashboard extends javax.swing.JFrame {
     int xmouse, ymouse;

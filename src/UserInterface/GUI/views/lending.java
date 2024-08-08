@@ -11,7 +11,7 @@ import javax.swing.JLabel;
 
 /**
  *
- * @author Suco
+ * @author Grupo 4
  */
 public class lending extends javax.swing.JPanel {
 

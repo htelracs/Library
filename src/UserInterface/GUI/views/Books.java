@@ -6,7 +6,7 @@ package UserInterface.GUI.views;
 
 /**
  *
- * @author Suco
+ * @author Grupo 4
  */
 public class Books extends javax.swing.JPanel {
 

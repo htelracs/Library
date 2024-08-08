@@ -12,7 +12,7 @@ import javax.swing.JLabel;
 
 /**
  *
- * @author Suco
+ * @author Grupo 4
  */
 public class logAdmin extends javax.swing.JFrame {
     int xmouse, ymouse;

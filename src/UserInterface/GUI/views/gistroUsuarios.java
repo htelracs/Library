@@ -6,12 +6,12 @@ package UserInterface.GUI.views;
 
 /**
  *
- * @author Suco
+ * @author Grupo 4
  */
 public class gistroUsuarios extends javax.swing.JPanel {
 
     /**
-     * Creates new form gistroUsuarios
+     * Creacion de formulario
      */
     public gistroUsuarios() {
         initComponents();
